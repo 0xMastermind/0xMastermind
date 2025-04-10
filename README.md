@@ -1,4 +1,4 @@
-## Hi mother fucker! 👋
+## --
 
 <!--
 **0xMastermind/0xMastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
