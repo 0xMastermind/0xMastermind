@@ -1,4 +1,4 @@
-## PGP Key:AFA53ABA09100FA8E9823B1CD2D219F55B13F6CA
+## PGP: AFA53ABA09100FA8E9823B1CD2D219F55B13F6CA
 
 <!--
 **0xMastermind/0xMastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
